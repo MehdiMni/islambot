@@ -31,6 +31,17 @@ For example, to quote the first verse of the Qu'ran:
 -aquran 1:1
 ```
 
+### -morphology
+**-morphology** allows you to analyse the Arabic morphology of any single word in the Qur'an.
+
+```
+-morphology surah:verse:word number
+e.g: 
+-morphology 1:2:4
+```
+
+
+
 ## Tafseer
 
 ### -atafsir
@@ -110,6 +121,30 @@ Not all hadith are indexed correctly on sunnah.com, and not all use the same num
 **-ahadith** is the same as -hadith, but allows you to quote hadith in Arabic. 
 
 
+## Prayer (Salaah) Times
+
+The bot can also get prayer times for a specific address/location, with optional parameters for the calculation method. If the calculation method is not specified, it will default to Umm al-Qura.
+
+```
+-prayertimes <"address/location name"> [method number] 
+```
+
+For example:
+```
+-prayertimes "East London Mosque, London" 
+```
+
+..would fetch prayer times in the general area of East London Mosque, using the calculation method of ISNA.
+
+#### Valid method numbers
+
+* 1 - University of Islamic Sciences, Karachi
+* 2 - Islamic Society of North America (ISNA)
+* 3 - Muslim World League (MWL)
+* 4 - Umm al-Qura, Makkah (default)
+* 5 - Egyptian General Authority of Survey
+* 7 - Institute of Geophysics, University of Tehran
+
 ## Hijri Calendar
 
 The bot can also (rather inaccurately) convert both ways between the Hijri and Gregorian calendars.
@@ -142,7 +177,7 @@ The bot can search for Islamic rulings from from several websites, including isl
 Search for an Islamic ruling on a topic.
 
 ```
--islamqa "topic name"
+-islamqa <"topic name">
 ```
 
 For example:
