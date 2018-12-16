@@ -45,18 +45,20 @@ e.g:
 ## Tafseer
 
 ### -atafsir
-**-atafsir** allows you to quote the tasfir (commentary) of verses in Arabic. Currently, Tafsir al-Jalalayn and Tafsir al-Muyassar are available. It works in the same manner as **-quran**.
+**-atafsir** allows you to quote from over 26 Arabic *tafaseer* (commentaries on the Qurʾān). A list of valid *tafaseer* is available [here](https://github.com/galacticwarrior9/islambot/blob/master/Tafsir.md).
 
 ```
--atafsir <surah>:<verse(s)> [tafsir edition]
+-atafsir <surah>:<verse(s> [tafsir]
 ```
 
 For example:
 
 ```
--atafsir 2:255 muyassar
+-atafsir 2:255 tabari
 ```
-The above command would quote the tafsir of Ayatul Kursi from Tafsir al-Muyassar.
+
+The above command would quote the tafsir of Ayatul Kursi from Tafsir al-Tabari.
+
 
 #### Valid tafsir editions
 * jalalayn = Tafsir al-Jalalayn
