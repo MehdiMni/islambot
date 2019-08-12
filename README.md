@@ -61,10 +61,10 @@ The above command would quote the tafsir of Ayatul Kursi from Tafsir al-Tabari.
 
 
 ### -tafsir
-**-tafsir** allows you to quote the English tasfir (commentary) of verses from Tafsir al-Jalalayn and Tafsir Ibn Kathir. It works in the same manner as **-atafsir**.
+**-tafsir** allows you to quote the English tasfir (commentary) of verses from Tafsīr al-Jalālayn (`jalalayn`), Tafsīr Ibn Kathīr (`ibnkathir`), Tafsīr al-Tustarī (`tustari`), Rashīd al-Dīn Maybudī's Kashf al-Asrār (`kashf`), al-Qurayshi's Laṭāʾif al-Ishārāt (`qurayshi`), Tafsīr ʿAbd al-Razzāq al-Kāshānī (`kashani`) and al-Wahidi's Asbāb al-Nuzūl (`wahidi`). It works in the same manner as **-atafsir**.
 
 ```
--tafsir <surah>:<verse> <jalalayn/ibnkathir>
+-tafsir <surah>:<verse> <jalalayn/ibnkathir/kashf/tustari/qurayshi/kashani/wahidi>
 ```
 
 For example:
