@@ -154,14 +154,6 @@ For example:
 
 ..would fetch prayer times in the general area of Los Angeles. 
 
-#### Valid method numbers
-
-* 1 - University of Islamic Sciences, Karachi
-* 2 - Islamic Society of North America (ISNA)
-* 3 - Muslim World League (MWL)
-* 4 - Umm al-Qura, Makkah (default)
-* 5 - Egyptian General Authority of Survey
-* 7 - Institute of Geophysics, University of Tehran
 
 ## Hijri Calendar
 
