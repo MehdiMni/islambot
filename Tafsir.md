@@ -13,7 +13,7 @@ They are as follows:
 7. `qurtubi` - the tafsir of Abu Abdullāh al-Qurṭubī (d. 671 AH) entitled *al-Jami li-Akham al-Qurʾān wa mubayyin li ma taddamanahu min al-Sunnah wa ayi al-Furqān*. It has  a particular emphasis on legal judgements derived from verses of the Qurʾān. 
 8. `baydawi` - the tafsir of Nasir al-Din al-Baydawi (d. 685 AH), entitled *Anwar al-Tanzīl wa-Asrar al-Ta'wīl*, is one of the most popular classical commentaries. 
 9. `mawardi` - the tafsir of al-Mawardi (d. 448 AH) entitled *al-Nukat wal 'Uyūn*.
-10. `maturidi` - the tafsir of Abū Manṣūr al-Māturīdī (d. 333 AH), one of most celebrated Sunni theologians, which focuses on *ta'wīl*, or figurative interpretation of the Qurʾān. It is entitled *Ta'wilat Ahl al-Sunnah*
+10. `maturidi` - the tafsir of Abū Manṣūr al-Māturīdī (d. 333 AH), one of most celebrated Sunni theologians. It is entitled *Ta'wilat Ahl al-Sunnah*
 11. `duralmanthur` - *Dur al-Manthur*, the tafsir of the aforementioned Jalāl ad-Dīn as-Suyūtī.
 12. `nasafi` - the tafsir of Abū al-Barakat ʿAbd Allāh b. Aḥmad al-Nasafī (d. 710 AH) is an early abridgement of the combined works of al-Baydawi and al-Zamakhshari, with an emphasis on defending the Ḥanafī school.
 13. `samarqandi` - the tafsir of the Hanafite jurist Abū al-Layth al-Samarqandī (d. 373 AH). 
@@ -30,3 +30,5 @@ They are as follows:
 24. `ibnattiyah` - the tafsir of Ibn ‘Atiyyah (d. 541 AH), entitled *al-Muharrar al-Wajīz fī Tafsīr al-Kitāb al-‘Azīz*. The author drew heavily from the narrations found in books of narration-based commentary, especially from al-Ṭabarī's tafsir. 
 25. `ibnabdalsalam` - the tafsir of Izz al-Dīn ibn 'Abd al-Salam (d. 660 AH), the leading Shafi'ite theologian of his generation.
 26. `ibnashur` - the tafsir of Muhammad al-Ṭāhir ibn ʿĀshūr (d. 1394 AH) entitled *Tafsir Al-Tahrir wa-al-Tanwir* is widely regarded as one of the best tafaseer authored in the modern era. 
+27. `tustari` - the tafsir of Sahl al-Tustarī (d. 283 AH), a Persian Sufi mystic. 
+28. `qurayshi` - the tafsir of Abūʾl Qāsim al-Qushayrī (d. 465 AH), entitled *Laṭāʾif al-Ishārāt*, ('Subtle Allusions'). 
