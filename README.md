@@ -3,6 +3,8 @@ An Islamic bot for Discord with support for Qu'ran, tafsir, hadith (from sunnah.
 
 Created by Zaify#6850. Message me if you have any suggestions or bug reports! 
 
+Support server: https://discord.gg/Ud3MHJR
+
 Contributors: ala and Caleb
 
 ## Qu'ran 
