@@ -1,6 +1,6 @@
 # Translations
 
-To be used with `-quran`.
+To be used with `-Coran`.
 
 **For example**: `-quran 1:1 bengali`
 
